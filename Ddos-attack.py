@@ -1,8 +1,3 @@
-sistem impor
-impor  os
- waktu impor
- soket impor
-impor  acak
 #Kode Waktu
 dari  datetime  impor  datetime
 sekarang  = tanggal  waktu . sekarang ()
